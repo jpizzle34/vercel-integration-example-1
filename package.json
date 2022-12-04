@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "bad-words": "^3.0.4",
-    "next": "10.x",
+    "next": "13.x",
     "planetscale-node": "^0.3.0",
     "react": "17.x",
     "react-dom": "17.x",
